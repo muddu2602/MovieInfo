@@ -1,0 +1,18 @@
+body{
+    font-family: 'Luckiest Guy', cursive;
+    background-color: #d1c4e9;
+}
+
+
+#movies img , #movie img {
+    width:100%;
+
+}
+
+#movies .col .m6 .l3 .s12 .card {
+    height: 390px;
+}
+
+#movies .col .m6 img {
+    height: 240px;
+}
